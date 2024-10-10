@@ -1,0 +1,50 @@
+span{
+    color: red;
+}
+
+.navbar-brand{
+    font-weight: 800;
+}
+
+h6{
+    color: red;
+}
+#dream{
+    color: blue;
+}
+
+.d-flex{
+    width: 70%;
+}
+
+.form-control{
+    margin-left: 40%;
+    width: 386px;
+}
+
+#latest{
+    color: blue;
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+    display: inline-flex;
+    padding: 5px;
+    gap: 40px;
+    /* margin-left: 150px; */
+}
+
+.Opening {
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.Opening h1{
+    margin-left: 85px;
+}
+
+.card{
+    width: 50%;
+}
